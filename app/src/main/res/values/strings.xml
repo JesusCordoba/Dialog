@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="btn">Dialog</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_start_game">Dialog start</string>
+</resources>
